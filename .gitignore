@@ -1,0 +1,7 @@
+/build/
+/node_modules/
+/scripts/
+/migrations/
+/truffle-config.js
+/temp
+/contracts/Migrations.sol

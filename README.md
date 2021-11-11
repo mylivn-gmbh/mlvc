@@ -1,3 +1,4 @@
+![](assets/banner.jpg)
 # Mylivn Coin
 
 MLVC is the universal currency of the mylivn network meant to be used for all payments inside the network.

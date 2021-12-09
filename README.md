@@ -9,3 +9,4 @@ MLVC is the universal currency of the mylivn network meant to be used for all pa
 - **Deployed in:** Ethereum Network 
 - **Supply:** limited to one billion tokens 
 - **Token Features:** burnable, off-chain transactions support inside the mylivn platform 
+- **Token contract:** 0x5054Ed21D6F50B8bCC374C9EF86C9Ad832E52140
